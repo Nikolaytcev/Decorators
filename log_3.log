@@ -1,0 +1,4 @@
+function name: hello_world,  date: 2023-03-18 10:23:55.396699, arguments: (), {}, result: Hello World.
+function name: summator,  date: 2023-03-18 10:23:55.396699, arguments: (2, 2), {}, result: 4.
+function name: div,  date: 2023-03-18 10:23:55.398006, arguments: (6, 2), {}, result: 3.0.
+function name: summator,  date: 2023-03-18 10:23:55.398006, arguments: (4.3,), {'b': 2.2}, result: 6.5.
